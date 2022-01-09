@@ -54,7 +54,7 @@ class Home extends Component {
                     </Row>
                     <Row>
                         <Col>
-                            <UserList />  {/* Passing employee data using context  */}
+                            <UserList /> 
                         </Col>
                     </Row>
 
