@@ -224,9 +224,7 @@ You need to enable Amplify on your React project that helps you to add Cognito a
 
 6) Update the `App` component code with the following. This will add a signout link and shows currently logged in user name in the navigation bar.
     ```javascript
-    function App({ loadEmployees }) {
-        loadEmployees();
-    
+    function App() {   
         return (
             <Authenticator loginMechanisms={['username']}>
                 {({ signOut, user }) => (
