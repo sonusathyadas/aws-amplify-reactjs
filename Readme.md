@@ -96,7 +96,7 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
     ![Amplify8](images/image8.png)
 
 13) Your application is now successfully configured for CI/CD. Any code changes made on the code will be redeployed automatically when you push the code to the GitHub repository.
-14) Open the project in Visual Studio Code and open  `src\components\Home.jsx` file. Update the page heading fron `<h2>Home</2>` to <h2>Employee List</h2>` inside the render method.
+14) Open the project in Visual Studio Code and open  `src\components\Home.jsx` file. Update the page heading from `<h2>Home</2>` to `<h2>Employee List</h2>` inside the render method.
     ```javascript
     render() {
         return (
