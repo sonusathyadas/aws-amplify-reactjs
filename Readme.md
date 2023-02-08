@@ -345,6 +345,3 @@ You need to enable Amplify on your React project that helps you to add Cognito a
     
     ![Amplify 22](images/image22.png)
     
-https://github.com/sonusathyadas/aws-amplify-reactjs/blob/1d2f9eb678bc4837799ff637a56ed8f4c4d83be2/employee-portal/src/index.js#L1-L11
-
-
